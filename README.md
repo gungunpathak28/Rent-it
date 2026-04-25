@@ -1,7 +1,7 @@
 
   # RentIt Web Application
 
-  This is a code bundle for RentIt Web Application. The original project is available at https://www.figma.com/design/4pJwcP0ZnJzDQaNreDvOhH/RentIt-Web-Application.
+  This is a code bundle for RentIt Web Application. 
 
   ## Running the code
 
